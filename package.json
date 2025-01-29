@@ -76,8 +76,8 @@
   },
   "dependencies": {
     "@dotlottie/react-player": "^1.6.3",
-    "@expensify/react-native-live-markdown": "0.1.221",
     "@expensify/react-native-background-task": "file:./modules/background-task",
+    "@expensify/react-native-live-markdown": "0.1.221",
     "@expo/metro-runtime": "^4.0.0",
     "@firebase/app": "^0.10.10",
     "@firebase/performance": "^0.6.8",
@@ -210,6 +210,7 @@
     "@babel/types": "^7.22.19",
     "@callstack/reassure-compare": "^1.0.0-rc.4",
     "@callstack/repack": "~5.0.0-rc.10",
+    "@callstack/repack-plugin-reanimated": "^5.0.0-rc.10",
     "@dword-design/eslint-plugin-import-alias": "^5.0.0",
     "@electron/notarize": "^2.1.0",
     "@fullstory/babel-plugin-annotate-react": "^2.3.0",
